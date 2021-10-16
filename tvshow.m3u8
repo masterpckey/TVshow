@@ -15,8 +15,6 @@ http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 ,CCTV-6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 ,CCTV-6
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 ,CCTV-7
 http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 ,CCTV-9
@@ -29,8 +27,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 ,第一财经
 http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 ,凤凰卫视中文台
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 ,凤凰卫视香港台
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364
 #EXTINF:-1 ,日本NHK华语
