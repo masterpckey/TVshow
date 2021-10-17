@@ -7,12 +7,8 @@ http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 ,CCTV-4
 http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 ,CCTV5-+
-http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 ,CCTV-6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1 ,CCTV-7
