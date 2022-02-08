@@ -16,7 +16,7 @@ http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/7HD.png",CCTV7
 http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/8HD.png",CCTV8
-http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/9HD.png",CCTV9
 http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/10HD.png",CCTV10
