@@ -12,7 +12,7 @@ http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5+HD.png",CCTV5+
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png",CCTV6
-http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/7HD.png",CCTV7
 http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/8HD.png",CCTV8
