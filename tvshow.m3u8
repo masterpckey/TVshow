@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png",CCTV1
-http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/2HD.png",CCTV2
 http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/3HD.png",CCTV3
-http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
+http://183.207.249.6/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/4HD.png",CCTV4
 http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5HD.png",CCTV5
-http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8
+http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/5+HD.png",CCTV5+
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/6HD.png",CCTV6
@@ -34,8 +34,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
 https://tv-api-three.vercel.app/api/c4k.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV16奥运SDR
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/4/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV16奥运HDR
-http://223.110.236.4/ott.js.chinamobile.com/PLTV/4/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰卫视香港台
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",日本NHK华语
@@ -61,21 +59,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000407/index.m3u8
 #EXTINF:-1 ,海看热播
 http://150.138.8.143/00/SNM/CHANNEL00000405/index.m3u8
 #EXTINF:-1 ,海看电竞
-http://150.138.8.143/00/SNM/CHANNEL00000408/index.m3u8
-#EXTINF:-1 ,喜剧影院
-http://150.138.8.143/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 ,动作影院
-http://150.138.8.143/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1 ,经典电影
-http://150.138.8.143/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 ,少儿动画
-http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
-#EXTINF:-1 ,相声小品
-http://150.138.8.143/00/SNM/CHANNEL00000606/index.m3u8
-#EXTINF:-1 ,热播剧场
-http://150.138.8.143/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1 ,魅力时尚
-http://150.138.8.143/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV中国功夫
 http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV云南频道
