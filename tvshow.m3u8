@@ -139,6 +139,8 @@ http://223.110.236.20/ott.js.chinamobile.com/PLTV/4/224/3221228168/index.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",日本NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="MeiGuoGouGouChongWu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",美国狗狗宠物 (1080p)
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 ,咪咕视频-1
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 ,咪咕视频-2
