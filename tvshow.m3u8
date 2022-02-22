@@ -135,15 +135,11 @@ http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
 https://tv-api-three.vercel.app/api/c4k.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",日本NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="MeiGuoGouGouChongWu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",美国狗狗宠物 (1080p)
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-#EXTINF:-1 ,咪咕视频-1
+##EXTINF:-1 ,咪咕视频-1
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 ,咪咕视频-2
 http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 ,咪咕视频-3
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 ,咪咕视频-4
 http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
 #EXTINF:-1 ,海看生活
 http://150.138.8.143/00/SNM/CHANNEL00000202/index.m3u8
